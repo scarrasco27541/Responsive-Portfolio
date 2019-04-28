@@ -186,6 +186,7 @@ nav a:first-child {
 	width:30%;
 	display:inline-block;
 	margin:.5%;
+	border:1px solid black;
 }
 
 .work img {
